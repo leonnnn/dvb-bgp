@@ -15,6 +15,8 @@ lines = {
     "linie_11.txt",
     "linie_12.txt",
     "linie_13.txt",
+    "linie_61.txt",
+    "linie_62.txt",
 }
 
 def station_to_str(station):
